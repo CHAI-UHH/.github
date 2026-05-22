@@ -1,6 +1,7 @@
 # Humanities-Centered Artificial Intelligence (CHAI)
-> Institute for Humanities-Centered Artificial Intelligence (CHAI), 
-> University of Hamburg,  
+
+> Institute for Humanities-Centered Artificial Intelligence (CHAI)  
+> University of Hamburg  
 > Germany
 
 
